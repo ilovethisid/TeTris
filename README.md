@@ -9,3 +9,5 @@ rotate: key z and x for counter-clockwise and clockwise
 * To play the game, download all the codes and save it in .jar file. Then, download the Game File and 
 put both file in the same folder. Enjoy the game!
 * Anyone can use this program as well as the source codes
+* Sorry for bad comments and explanations, since this is my first personal project and 
+it is made during vacation which is long time ago
